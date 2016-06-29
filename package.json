@@ -1,0 +1,11 @@
+{
+  "name": "leapdrone",
+  "version": "1.0.0",
+  "description": "Leap motion controlled drone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
